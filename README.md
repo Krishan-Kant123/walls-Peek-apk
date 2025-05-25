@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# 🖼️ Walls-Peek
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Walls-Peek** is a beautiful and lightweight wallpaper app built using [Expo](https://expo.dev), allowing users to explore and apply high-quality wallpapers with ease. Whether you're seeking minimalism, nature, or abstract art, Walls-Peek has something for every style.
 
-## Get started
+[![Made with Expo](https://img.shields.io/badge/Made%20with-Expo-1f1f1f.svg?style=flat&logo=expo)](https://expo.dev)
+[![Platform - Android/iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)](#)
+[![License](https://img.shields.io/github/license/alok112/walls-peek?color=lightgrey)](./LICENSE)
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 📱 Try the App
 
-2. Start the app
+🚀 **[Launch Walls-Peek on Expo](https://expo.dev/accounts/alok112/projects/wallpapers/builds/6b221529-ea87-40bf-82fa-77da735c3755)**
 
-   ```bash
-    npx expo start
-   ```
+Scan this QR with the **Expo Go** app on your phone to open the project instantly.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ✨ Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 🖼️ Browse a curated collection of wallpapers  
+- 🔍 Search functionality (if included)  
+- ❤️ Save and manage favorite wallpapers  
+- 📲 Apply wallpapers directly (if supported by platform)  
+- ⚡ Fast performance and smooth UI  
+- 🌙 Light & dark theme ready (optional)
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📸 Screenshots
+
+| Home Screen | Wallpaper Detail |
+|-------------|------------------|
+| ![Home](![WhatsApp Image 2024-12-27 at 7 54 14 PM](https://github.com/user-attachments/assets/577b6ca7-1f7a-4c7d-997a-4c93436e30b1)
+) | ![Detail](![WhatsApp Image 2024-12-27 at 7 54 15 PM](https://github.com/user-attachments/assets/b77b2734-55f7-47eb-9e6c-de83ba4bcad2)
+) |
+
+> Add actual screenshots in the `screenshots/` folder and replace these placeholders.
+
+---
+
+## 🚀 Getting Started
+
+To get started with development:
+
+### 1. Clone the repository
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/your-username/walls-peek.git
+cd walls-peek
