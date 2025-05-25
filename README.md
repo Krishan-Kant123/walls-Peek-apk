@@ -31,8 +31,8 @@ Scan this QR with the **Expo Go** app on your phone to open the project instantl
 
 | Home Screen | Wallpaper List | Wallpaper Detail |
 |-------------|----------------|------------------|
-| ![Home](https://github.com/user-attachments/assets/211fb034-bf2a-49ef-888e-bf518b065a5b) | ![List](https://github.com/user-attachments/assets/577b6ca7-1f7a-4c7d-997a-4c93436e30b1) | ![Detail](https://github.com/user-attachments/assets/b77b2734-55f7-47eb-9e6c-de83ba4bcad2) |
-
+| ![Home](https://github.com/user-attachments/assets/577b6ca7-1f7a-4c7d-997a-4c93436e30b1) | ![List](https://github.com/user-attachments/assets/b77b2734-55f7-47eb-9e6c-de83ba4bcad2) | ![Detail](https://github.com/user-attachments/assets/211fb034-bf2a-49ef-888e-bf518b065a5b
+) |
 ---
 
 ## 🚀 Getting Started
